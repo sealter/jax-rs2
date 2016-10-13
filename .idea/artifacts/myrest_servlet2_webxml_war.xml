@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="myrest-servlet2-webxml:war">
+    <output-path>$PROJECT_DIR$/1.6.1-myrest-servlet2-webxml/target</output-path>
+    <root id="archive" name="myrest-servlet2-webxml.war">
+      <element id="artifact" artifact-name="myrest-servlet2-webxml:war exploded" />
+    </root>
+  </artifact>
+</component>

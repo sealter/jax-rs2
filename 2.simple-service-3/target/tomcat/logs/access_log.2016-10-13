@@ -1,0 +1,2 @@
+0:0:0:0:0:0:0:1 - - [13/Oct/2016:17:04:13 +0800] "GET /webapi/application.wadl HTTP/1.1" 404 - http-bio-8080-exec-1 0
+0:0:0:0:0:0:0:1 - - [13/Oct/2016:17:04:19 +0800] "GET /webapi/myresource HTTP/1.1" 404 - http-bio-8080-exec-3 0

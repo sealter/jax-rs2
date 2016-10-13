@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding">
+    <file url="file://$PROJECT_DIR$" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/1.5-my-first-service" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/1.5-my-first-webapp" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/1.6.1-myrest-servlet2-webxml" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/1.6.2-myrest-servlet3-webxml" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/1.6.3-myrest-subservlet" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/1.6.4-myrest-servlet3-application" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/1.6.5-myrest-rc" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/1.6.6-myrest-servlet2-application" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/1.6.7-myrest-servlet3-application" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/2.simple-service-3" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/myrest-rc" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/myrest-servlet3-webxml" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/myrest-subservlet" charset="UTF-8" />
+    <file url="PROJECT" charset="UTF-8" />
+  </component>
+</project>

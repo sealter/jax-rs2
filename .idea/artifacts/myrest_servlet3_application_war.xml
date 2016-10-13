@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="myrest-servlet3-application:war">
+    <output-path>$PROJECT_DIR$/1.6.4-myrest-servlet3-application/target</output-path>
+    <root id="archive" name="myrest-servlet3-application.war">
+      <element id="artifact" artifact-name="myrest-servlet3-application:war exploded" />
+    </root>
+  </artifact>
+</component>

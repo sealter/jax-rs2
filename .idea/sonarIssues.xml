@@ -1,0 +1,139 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="issues">
+    <option name="index">
+      <map>
+        <entry key="$PROJECT_DIR$/../../FP/CMS/test/market1.5/market-intf/src/main/java/com/tuniu/jr/market/dao/gift/IFpRpInvDao.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../FP/CMS/test/market1.5/market-intf/src/main/java/com/tuniu/jr/market/gift/dto/FpRpInvTaskDto.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../FP/CMS/test/market1.5/market-service/src/main/java/com/tuniu/jr/market/dao/impl/gift/FpRpInvDaoImpl.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../FP/CMS/test/market1.5/market-service/src/main/java/com/tuniu/jr/market/hongbao/task/rpstatu/InvOutExceptionFixTask.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../FP/CMS/test/market1.5/market-web/src/main/resources/config/mybatis/mapper_FpRpInv.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../FP/CMS/test/market1.5/market-web/src/main/resources/config/mybatis/mapper_FpSettleDetail.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/1.5-my-first-service/pom.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/1.5-my-first-service/src/main/java/com/zchao/Main.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/1.5-my-first-service/src/main/java/com/zchao/MyResource.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/1.6.1-myrest-servlet2-webxml/pom.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/1.6.2-myrest-servlet3-webxml/pom.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/1.6.2-myrest-servlet3-webxml/src/main/java/com/zchao/AirServlet.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/1.6.2-myrest-servlet3-webxml/src/main/webapp/WEB-INF/web.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/1.6.3-myrest-subservlet/pom.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/1.6.3-myrest-subservlet/src/main/java/com/zchao/AirServlet.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/1.6.4-myrest-servlet3-application/pom.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/1.6.4-myrest-servlet3-application/src/main/java/com/zchao/AirApplication.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/1.6.5-myrest-rc/pom.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/1.6.5-myrest-rc/src/main/java/com/zchao/AirResourceConfig.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/1.6.6-myrest-servlet2-application/pom.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/1.6.6-myrest-servlet2-application/src/main/java/com/zchao/AirApplication.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/1.6.6-myrest-servlet2-application/src/main/webapp/WEB-INF/web.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/1.6.7-myrest-servlet3-application/pom.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/1.6.7-myrest-servlet3-application/src/main/webapp/WEB-INF/web.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/2.simple-service-3/pom.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/pom.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>
